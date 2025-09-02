@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dora AI</string>
+    <string name="accessibility_service_description">Dora AI Accessibility Service - Enables screen interaction and automation capabilities for the AI assistant</string>
+</resources>
+
